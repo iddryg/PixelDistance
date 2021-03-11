@@ -11,4 +11,4 @@ PixDistStats2.py separates the data into biological replicates instead of aggreg
 
 PixDistStats3.py takes data from PixDistStats2, normalizes it to total pixels for each animal, does statistical comparisons and makes plots.
 
-This is an un-polished script written by Ian Dryg and used for data analysis in the Lund Lab (thelundlab.com) in ~Feb2021. 
+These are un-polished scripts written by Ian Dryg and used for data analysis in the Lund Lab (thelundlab.com) in ~Feb2021. 
